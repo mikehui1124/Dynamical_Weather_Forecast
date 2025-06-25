@@ -1,6 +1,6 @@
-# challenge_6_dynamical-weather-forecast
+# Dynamical-Weather-Forecast
 
-Challenge 5 – README
+README
 
 This is a html and JavaScript source-code for a Weather Dashboard allows user to search for a 5-day weather forecast by city name. On submitting a city, the search record is reserved as a new button added below the search form. The weather data are requested from the resource from the OpenWeather One Call API under free-user account. The app is also powered by jQuery, BootStrap.css and date management from Moment.js API. 
 
